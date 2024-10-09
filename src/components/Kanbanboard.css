@@ -1,0 +1,11 @@
+.columns{
+    display: flex;
+    flex-direction: row;
+}
+
+.kanban-board {
+    /* display: flex; */
+    /* justify-content: space-between; */
+    padding: 20px;
+    background-color: rgb(242, 242, 242);
+  }

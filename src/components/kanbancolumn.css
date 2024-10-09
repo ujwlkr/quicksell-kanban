@@ -1,0 +1,19 @@
+.kanban-column{
+    padding: 1%;
+    width: 20vw;
+}
+.column-header{
+    display: flex;
+    padding: 5px 10px;
+    align-items: baseline;
+}
+.column-title{
+    padding-right: 10px;
+    padding-left: 10px;
+    font-weight: 500;
+}
+
+.column-length{
+    font-weight: 500;
+    color: grey;
+}
